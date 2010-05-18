@@ -9,8 +9,9 @@ Control what pages/posts a user is able to edit.
 
 == Description ==
 
-This plugin will allow you to excluded users from editing specific pages.
+This plugin will allow you to exclud users from editing specific pages.
 Warning: The quick edit functionality is just hidden. Not blocked.
+Works fine with PHP4.
 
 This plugin is based on "Users Only" by "Start a Web Design Business" (http://www.sohohappens.com/347/users-only-wordpress-plugin)
 
